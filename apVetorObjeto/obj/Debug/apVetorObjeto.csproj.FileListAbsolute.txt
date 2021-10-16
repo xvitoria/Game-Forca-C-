@@ -1,0 +1,20 @@
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe.config
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.pdb
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csprojAssemblyReference.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.FrmFunc.resources
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.Properties.Resources.resources
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.GenerateResource.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.CoreCompileInputs.cache
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.exe
+G:\disciplinas\2021\1oSemestre\TecPro\Exemplos\cap13\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.pdb
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csprojAssemblyReference.cache
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.Properties.Resources.resources
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.GenerateResource.cache
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.csproj.CoreCompileInputs.cache
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.exe
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.pdb
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe.config
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.exe
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\bin\Debug\apVetorObjeto.pdb
+C:\Users\baeta\Downloads\Projeteto 3 - TP\Projeto\apVetorObjeto\apVetorObjeto\obj\Debug\apVetorObjeto.FrmForca.resources
